@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    display: flex;
+  }
+  #main{  
+    text-align: center;
+    background-color: #b8b894;
+  }
+  #title{
+    color:  #3f3f1f;
+    font-family: cursive;
+  }
+  h4{
+    color: #5a5a19;
+    font-style: italic;
+  }
+  #image{
+    max-width: 100%;
+    height: auto;
+    width: 350px;
+    justify-content: center;
+  }
+  #img-caption{
+    font-family:sans-serif;
+    font-size: 12px;
+    font-style: italic;
+    color: #757503;
+  }
+  p{
+    margin: 20px 150px 10px 150px;
+  }
+  #tribut-info ul li{
+    max-width: 60%;
+    display: flex;
+    text-decoration: none;
+    text-align: left;
+    margin:0px auto 30px auto;
+    }
+  a{
+    color: #757503;
+  }
+   
